@@ -6,7 +6,4 @@
   <a href="">
     <img src="https://img.shields.io/badge/license-MIT-brightgreen" />
   </a>
-  <a href="https://github.com/nachtfalter01/homeheart">
-    <img src="https://img.shields.io/badge/Stars?logo=github"/>
-  </a>
 </div>
